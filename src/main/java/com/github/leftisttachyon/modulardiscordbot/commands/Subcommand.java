@@ -1,4 +1,4 @@
-package com.github.leftisttachyon.speedrunbot.commands;
+package com.github.leftisttachyon.modulardiscordbot.commands;
 
 /**
  * A POJO object that represents a subcommand.

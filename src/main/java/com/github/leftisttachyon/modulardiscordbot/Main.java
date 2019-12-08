@@ -1,7 +1,7 @@
-package com.github.leftisttachyon.speedrunbot;
+package com.github.leftisttachyon.modulardiscordbot;
 
-import com.github.leftisttachyon.speedrunbot.commands.Command;
-import com.github.leftisttachyon.speedrunbot.commands.Commands;
+import com.github.leftisttachyon.modulardiscordbot.commands.Command;
+import com.github.leftisttachyon.modulardiscordbot.commands.Commands;
 import net.dv8tion.jda.api.AccountType;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.TreeMap;
 
-import static com.github.leftisttachyon.speedrunbot.commands.Command.PREFIX;
+import static com.github.leftisttachyon.modulardiscordbot.commands.Command.PREFIX;
 
 /**
  * The main class for this application.

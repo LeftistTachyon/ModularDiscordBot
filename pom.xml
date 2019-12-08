@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.leftisttachyon</groupId>
-    <artifactId>SpeedRunBot</artifactId>
+    <artifactId>ModularDiscordBot</artifactId>
     <version>0.9.0</version>
     <packaging>jar</packaging>
-    <name>SpeedRun Bot</name>
-    <url>https://github.com/LeftistTachyon/SpeedRunBot</url>
-    <description>A bot that connects to Speedrun.com and notifies the server of any updates.</description>
+    <name>Modular Discord Bot</name>
+    <url>https://github.com/LeftistTachyon/ModularDiscordBot</url>
+    <description>A template GitHub repository for easily creating a Discord bot.</description>
     <inceptionYear>2019</inceptionYear>
 	
     <build>
@@ -34,7 +34,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.github.leftisttachyon.speedrunbot.Main</mainClass>
+                            <mainClass>com.github.leftisttachyon.modulardiscordbot.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

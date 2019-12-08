@@ -1,8 +1,8 @@
-package com.github.leftisttachyon.speedrunbot.commands.impl;
+package com.github.leftisttachyon.modulardiscordbot.commands.impl;
 
-import com.github.leftisttachyon.speedrunbot.commands.Command;
-import com.github.leftisttachyon.speedrunbot.commands.Commands;
-import com.github.leftisttachyon.speedrunbot.commands.Subcommand;
+import com.github.leftisttachyon.modulardiscordbot.commands.Command;
+import com.github.leftisttachyon.modulardiscordbot.commands.Commands;
+import com.github.leftisttachyon.modulardiscordbot.commands.Subcommand;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 

@@ -1,4 +1,4 @@
-package com.github.leftisttachyon.speedrunbot.commands;
+package com.github.leftisttachyon.modulardiscordbot.commands;
 
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import org.slf4j.Logger;

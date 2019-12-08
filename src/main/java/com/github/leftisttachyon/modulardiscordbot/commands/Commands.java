@@ -1,6 +1,6 @@
-package com.github.leftisttachyon.speedrunbot.commands;
+package com.github.leftisttachyon.modulardiscordbot.commands;
 
-import com.github.leftisttachyon.speedrunbot.commands.impl.HelpCommand;
+import com.github.leftisttachyon.modulardiscordbot.commands.impl.HelpCommand;
 
 import java.time.Duration;
 import java.time.OffsetDateTime;
