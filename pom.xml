@@ -23,6 +23,7 @@
 
         <exec-plugin.version>1.6.0</exec-plugin.version>
         <jda.version>4.0.0_62</jda.version>
+        <maven-compiler.version>3.2.0</maven-compiler.version>
         <logback.version>1.2.3</logback.version>
     </properties>
 
@@ -46,6 +47,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
+                <version>${maven-compiler.version}</version>
 
                 <configuration>
                     <archive>
